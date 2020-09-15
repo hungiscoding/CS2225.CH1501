@@ -69,3 +69,4 @@ print(type(mv));
 
 # My questions:
     # What is the difference between list, tuple & set
+    # Research more about bytes, bytearray, memoryview
